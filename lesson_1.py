@@ -1,3 +1,4 @@
+fffffffffffff
 # lesson_1_input
 print ("Hello world!") # команда для вывода данных в терминале - параметр передачи
 print ("Yana Stupid, Yana Study") # в двойных скобках указывается строка
